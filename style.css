@@ -36,3 +36,10 @@ nav {
     padding: 10px;
     gap: 2px;
 }
+
+nav .logo {
+    background-color: #a3e635;
+    padding: 8px;
+    font-size: 20px;
+    border-radius: 50%;
+}
