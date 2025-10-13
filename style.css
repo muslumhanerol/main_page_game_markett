@@ -53,3 +53,32 @@ nav .nav-links {
     gap: 10px;
     border-radius: 50%;
 }
+
+nav .nav-links a {
+    color: #fff;
+    transition: all 0.3s ease;
+}
+
+nav .nav-links a:hover {
+    color: #a3e635;
+}
+
+nav .nav-links .separator {
+    width: 5px;
+    height: 5px;
+    background: #a3e635;
+    border-radius: 50%;
+}
+
+nav .nav-links p {
+    font-size: 13px;
+}
+
+nav .login {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    background: #171717;
+    padding: 4px 4px 4px 14px;
+    border: 50%;
+}
