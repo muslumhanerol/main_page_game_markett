@@ -82,3 +82,9 @@ nav .login {
     padding: 4px 4px 4px 14px;
     border: 50%;
 }
+
+nav .login img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
