@@ -43,3 +43,13 @@ nav .logo {
     font-size: 20px;
     border-radius: 50%;
 }
+
+nav .nav-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 20px;
+    background-color: #171717;
+    gap: 10px;
+    border-radius: 50%;
+}
