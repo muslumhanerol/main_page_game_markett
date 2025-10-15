@@ -88,3 +88,8 @@ nav .login img {
     height: 32px;
     border-radius: 50%;
 }
+
+nav .login a {
+    font-size: 13px;
+    color: #fff;
+}
