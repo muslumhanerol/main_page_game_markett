@@ -93,3 +93,15 @@ nav .login a {
     font-size: 13px;
     color: #fff;
 }
+
+.prompt-sec {
+    padding: 20px;
+}
+
+.prompt-sec h1 {
+    color: #ccc;
+    font-size: 182px;
+    line-height: 120px;
+    text-align: center;
+    margin-bottom: 36px;
+}
