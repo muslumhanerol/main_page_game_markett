@@ -117,3 +117,16 @@ nav .login a {
     object-position: top center;
     box-shadow: 0 -20px 40px rgba(0, 0, 0, 1);
 }
+
+.prompt-sec .prompt-img img input {
+    width: 55%;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%);
+    background: rgba(255, 255, 255, 0.22);
+    border-radius: 20px;
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+
+}
