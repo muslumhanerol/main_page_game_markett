@@ -105,3 +105,15 @@ nav .login a {
     text-align: center;
     margin-bottom: 36px;
 }
+
+.prompt-sec .prompt-img {
+    position: relative;
+}
+
+.prompt-sec .prompt-img img {
+    width: 100%;
+    height: 440px;
+    border-radius: 60px;
+    object-position: top center;
+    box-shadow: 0 -20px 40px rgba(0, 0, 0, 1);
+}
