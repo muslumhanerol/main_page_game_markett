@@ -163,3 +163,9 @@ nav .login a {
     border-radius: 50px;
     transition: all 0.3s ease;
 }
+
+.prompt-sec .prompt-img .tabs a.active,
+.prompt-sec .prompt-img .tabs a:hover {
+    color: #231f1c;
+    background: #a3e635;
+}
