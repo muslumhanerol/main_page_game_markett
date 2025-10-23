@@ -133,5 +133,17 @@ nav .login a {
     padding: 16px;
     text-align: center;
     color: #fff;
-    1424
+}
+
+.prompt-sec .prompt-img img input::placeholder {
+    color: #ccc;
+}
+
+.prompt-sec .prompt-img .tabs {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
 }
