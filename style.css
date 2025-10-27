@@ -182,3 +182,11 @@ nav .login a {
     text-align: center;
     margin-bottom: 50px;
 }
+
+.showcase .text-sec {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    margin-bottom: 20px;
+}
