@@ -197,12 +197,14 @@ nav .login a {
 }
 
 .showcase .text-sec .images,
-.showcase .text-sec {
+.showcase .image-sec {
     display: flex;
     align-items: center;
     gap: 20px;
 
 }
 
-.showcase .text-sec .images,
-.showcase .text-sec img {}
+.showcase .text-sec .images img,
+.showcase .image-sec img {
+    width: 256px;
+}
