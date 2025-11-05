@@ -247,4 +247,12 @@ nav .login a {
     padding: 5px 20px 5px 5px;
     gap: 10px;
     width: fit-content;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+
+.services .services-items .item .title .gradient {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
 }
