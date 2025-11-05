@@ -256,3 +256,21 @@ nav .login a {
     height: 36px;
     border-radius: 50%;
 }
+
+.services .services-items .item:nth-child(1) .title .gradient {
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+
+}
+
+.services .services-items .item:nth-child(2) .title .gradient {
+
+    background: linear-gradient(45deg, #6a11cb, #2575fc);
+}
+
+.services .services-items .item:nth-child(3) .title .gradient {
+    background: linear-gradient(45deg, #43e97b, #38f9d7);
+}
+
+.services .services-items .item:nth-child(4) .title .gradient {
+    background: linear-gradient(45deg, #fa709a, #fee140);
+}
