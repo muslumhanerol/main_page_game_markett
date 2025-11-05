@@ -222,4 +222,29 @@ nav .login a {
     color: #fff;
     font-size: 48px;
     text-transform: uppercase;
+    width: 60%;
+}
+
+.services .services-items {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 80px;
+    padding-bottom: 40px;
+}
+
+.services .services-items .item {
+    background: #171717;
+    padding: 20px;
+    border-radius: 40px;
+    width: 25%;
+}
+
+.services .services-items .item .title {
+    display: flex;
+    align-items: center;
+    background: #2e2c29;
+    padding: 5px 20px 5px 5px;
+    gap: 10px;
+    width: fit-content;
 }
