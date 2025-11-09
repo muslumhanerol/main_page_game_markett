@@ -281,3 +281,13 @@ nav .login a {
     font-size: 30px;
     margin-bottom: 10px;
 }
+
+.services .services-items .item.active {
+    background: #a3e635;
+
+}
+
+.services .services-items .item.active .title {
+    background: #000;
+
+}
