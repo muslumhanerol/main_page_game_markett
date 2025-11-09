@@ -291,3 +291,8 @@ nav .login a {
     background: #000;
 
 }
+
+.services .services-items .item.active .desc h5 {
+    color: #000;
+
+}
