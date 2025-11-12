@@ -274,7 +274,7 @@ nav .login a {
     background: linear-gradient(45deg, #fa709a, #fee140);
 }
 
-.services .services-items .item .desc h5 {
+.services .service-items .item .desc h5 {
     text-transform: uppercase;
     color: #fff;
     font-size: 30px;
