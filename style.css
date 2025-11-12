@@ -281,17 +281,17 @@ nav .login a {
     margin-bottom: 10px;
 }
 
-.services .services-items .item.active {
+.services .service-items .item-active {
     background: #a3e635;
 
 }
 
-.services .services-items .item.active .title {
+.services .service-items .item.active .title {
     background: #000;
 
 }
 
-.services .services-items .item.active .desc h5 {
+.services .service-items .item.active .desc h5 {
     color: #000;
 
 }
