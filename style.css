@@ -233,14 +233,14 @@ nav .login a {
     padding-bottom: 40px;
 }
 
-.services .services-items .item {
+.services .service-items .item {
     background: #171717;
     padding: 20px;
     border-radius: 40px;
     width: 25%;
 }
 
-.services .services-items .item .title {
+.services .service-items .item .title {
     display: flex;
     align-items: center;
     background: #2e2c29;
@@ -251,18 +251,17 @@ nav .login a {
     margin-bottom: 30px;
 }
 
-.services .services-items .item .title .gradient {
+.services .service-items .item .title .gradient {
     width: 36px;
     height: 36px;
     border-radius: 50%;
 }
 
-.services .services-items .item:nth-child(1) .title .gradient {
+.services .service-items .item:nth-child(1) .title .gradient {
     background: linear-gradient(45deg, #f3ec78, #af4261);
-
 }
 
-.services .services-items .item:nth-child(2) .title .gradient {
+.services .service-items .item:nth-child(2) .title .gradient {
 
     background: linear-gradient(45deg, #6a11cb, #2575fc);
 }
