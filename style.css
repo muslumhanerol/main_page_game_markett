@@ -283,15 +283,12 @@ nav .login a {
 
 .services .service-items .item .item-active {
     background: #a3e635;
-
 }
 
 .services .service-items .item-active .title {
     background: #000;
-
 }
 
 .services .services-items .item-active .desc h5 {
     color: #000;
-
 }
