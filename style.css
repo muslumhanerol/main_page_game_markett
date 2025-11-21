@@ -302,5 +302,12 @@ nav .login a {
 .video-sec .header h3 {
     text-align: right;
 
-
 }
+
+.video-sec .video {
+    margin: 20px 0 40px;
+    padding: 0 80px;
+    position: relative;
+}
+
+.video-sec .video img {}
