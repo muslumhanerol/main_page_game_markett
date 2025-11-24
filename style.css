@@ -341,3 +341,27 @@ nav .login a {
 footer .copyright {
     width: 100%;
 }
+
+@media screen and (max-width: 1400px) {
+    .prompt-sec h1 {
+        font-size: 136px;
+        line-height: 90px;
+    }
+
+    .prompt-sec .prompt-img .tabs a {
+        width: 120px;
+    }
+
+    .showcase h3 {
+        font-size: 40px;
+        margin-bottom: 14px;
+    }
+
+    .service .text-sec {
+        flex-direction: column;
+
+    }
+
+    .service .text-sec p {}
+
+}
