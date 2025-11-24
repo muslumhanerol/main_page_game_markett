@@ -359,9 +359,21 @@ footer .copyright {
 
     .service .text-sec {
         flex-direction: column;
-
     }
 
-    .service .text-sec p {}
+    .service .text-sec p {
+        width: 100%;
+    }
+
+    .showcase .text-sec .images,
+    .showcase .image-sec {
+        margin-left: auto;
+    }
+
+    .showcase .text-sec .images img,
+    .showcase .image-sec img {
+        width: 228px;
+    }
+
 
 }
