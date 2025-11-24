@@ -29,7 +29,8 @@ body {
     background-color: #09090c;
 }
 
-nav {
+nav,
+footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -44,7 +45,8 @@ nav .logo {
     border-radius: 50%;
 }
 
-nav .nav-links {
+nav .nav-links,
+footer .copyright {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -63,7 +65,8 @@ nav .nav-links a:hover {
     color: #a3e635;
 }
 
-nav .nav-links .separator {
+nav .nav-links .separator,
+footer .copyright .separator {
     width: 5px;
     height: 5px;
     background: #a3e635;
@@ -332,4 +335,5 @@ nav .login a {
     color: #a3e635;
     padding: 16px 16px 16px 24px;
     cursor: pointer;
+
 }
