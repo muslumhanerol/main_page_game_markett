@@ -375,5 +375,12 @@ footer .copyright {
         width: 228px;
     }
 
+    .services .header h3,
+    .video-sec .header h3 {
+        font-size: 40px;
+        width: 75%;
+    }
+
+
 
 }
