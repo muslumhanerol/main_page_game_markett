@@ -381,6 +381,33 @@ footer .copyright {
         width: 75%;
     }
 
+    .service .service-items {
+        flex-wrap: wrap;
+    }
+
+    .services .service-items .item {
+        width: 48%;
+    }
+}
+
+@media scripteen and (max-width: 992px) {
+
+
+    .prompt-sec h1 {
+        font-size: 100px;
+        line-height: 70px;
+    }
+
+    .prompt-sec .prompt-img input {
+        top: 70%;
+        padding: 12px;
+    }
+
+    .prompt-sec .prompt-img .tabs a {
+        font-size: 14px;
+
+    }
+
 
 
 }
