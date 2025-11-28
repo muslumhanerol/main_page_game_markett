@@ -405,7 +405,26 @@ footer .copyright {
 
     .prompt-sec .prompt-img .tabs a {
         font-size: 14px;
+        width: 100px;
+    }
 
+    .showcase,
+    .services .service-items {
+        padding: 40px
+    }
+
+    .showcase h3 {
+        font-size: 34px;
+    }
+
+    .showcase .text-sec .images,
+    .showcase .image-sec {
+        justify-content: center;
+    }
+
+    .showcase .text-sec .images img,
+    .showcase .image-sec img {
+        width: 30%;
     }
 
 
