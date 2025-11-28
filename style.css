@@ -432,9 +432,18 @@ footer .copyright {
         padding: 40px 40px 0;
     }
 
-    .services .header h3 {
+    .services .header h3,
+    .video-sec .header h3 {
         width: 100%;
     }
 
+    .video-sec .header {
+        flex-direction: column-reverse;
+        padding: 40px 40px 0;
+    }
+
+    .video-sec .video {
+        padding: 0 40px;
+    }
 
 }
