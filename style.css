@@ -427,6 +427,14 @@ footer .copyright {
         width: 30%;
     }
 
+    .services .header {
+        flex-direction: column;
+        padding: 40px 40px 0;
+    }
+
+    .services .header h3 {
+        width: 100%;
+    }
 
 
 }
