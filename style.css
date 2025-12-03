@@ -444,6 +444,15 @@ footer .copyright {
 
     .video-sec .video {
         padding: 0 40px;
+
     }
+
+}
+
+@media screen and (max-width: 768px) {
+    nav .logo i {
+        padding: 6px;
+    }
+
 
 }
