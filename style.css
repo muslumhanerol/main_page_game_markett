@@ -454,5 +454,15 @@ footer .copyright {
         padding: 6px;
     }
 
+    nav .nav-links a {
+        font-size: 13px;
+    }
+
+    nav .nav-links p,
+    footer .copyright p {
+        font-size: 12px;
+
+    }
+
 
 }
