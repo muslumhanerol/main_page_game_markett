@@ -481,7 +481,9 @@ footer .copyright {
     .prompt-sec .prompt-img .tabs {
         flex-wrap: wrap;
         justify-content: center;
+        gap: 10px;
+        width: 92%;
+        bottom: -60px;
+        padding: 20px 0;
     }
-
-
 }
