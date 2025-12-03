@@ -461,7 +461,26 @@ footer .copyright {
     nav .nav-links p,
     footer .copyright p {
         font-size: 12px;
+    }
 
+    nav .login img {
+        width: 28px;
+        height: 28px;
+    }
+
+    .prompt-sec h1 {
+        font-size: 62px;
+        line-height: 48px;
+        margin-top: 20px;
+    }
+
+    .prompt-sec .prompt-img input {
+        width: 80%;
+    }
+
+    .prompt-sec .prompt-img .tabs {
+        flex-wrap: wrap;
+        justify-content: center;
     }
 
 
