@@ -495,5 +495,9 @@ footer .copyright {
         width: 100%;
     }
 
+    .video-sec .video button {
+        font-size: 80px;
+    }
+
 
 }
