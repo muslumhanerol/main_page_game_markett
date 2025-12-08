@@ -486,4 +486,14 @@ footer .copyright {
         bottom: -60px;
         padding: 20px 0;
     }
+
+    .prompt-sec .prompt-img .tabs a {
+        width: 29%;
+    }
+
+    .services .service-items .item {
+        width: 100%;
+    }
+
+
 }
